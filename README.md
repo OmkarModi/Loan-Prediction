@@ -29,4 +29,4 @@ Screenshots of Web App:
 
 
 
-<img src="Images/ss3.jpg" width="600" height="500">
+<img src="Images/ss3.jpg" width="600" height="200">
