@@ -22,11 +22,11 @@ Screenshots of Web App:
 
 
 
-<img src="Images/ss1.jpg" width="600" height="500">
+<img src="Images/ss2.jpg" width="600" height="500">
 
 
 
 
 
 
-<img src="Images/ss1.jpg" width="600" height="500">
+<img src="Images/ss3.jpg" width="600" height="500">
