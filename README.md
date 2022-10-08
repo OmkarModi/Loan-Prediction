@@ -1,5 +1,5 @@
-## Loan-Prediction
-#Streamlit website to check Loan approval of user using ML algorithm
+# Loan-Prediction
+Streamlit website to check Loan approval of user using ML algorithm
 
 Steps to create the project-
 1. Clone the repository. 
